@@ -50,7 +50,7 @@ Generates evaluation results after training, including:
 - Failure case analysis
 
 ## Deliverables
-- `results/training_log.json` – training curves for both methods  
+- `results/training_log.json` – training curves are under visualizations/ 
 - `results/heatmap_model.pth` – trained heatmap model  
 - `results/regression_model.pth` – trained regression model  
 - `results/visualizations/` – contains:
