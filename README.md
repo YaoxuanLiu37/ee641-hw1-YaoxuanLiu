@@ -58,6 +58,6 @@ Generates evaluation results after training, including:
   - Predicted heatmaps at different training stages  
   - Sample predictions from both methods on test images  
   - Failure case visualizations  
-- `results/baseline_results` – ablation study results  
+  - baseline_results – ablation study results  
 
 
